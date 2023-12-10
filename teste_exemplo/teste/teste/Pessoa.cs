@@ -50,6 +50,39 @@ namespace teste
         {
             return (dataAtual - dn).Days;
         }
+
+        /// <summary>
+        /// Questão b) Estenda a classe Pessoa com a definição do operador “==”
+        /// sabendo que duas pessoas são as mesmas caso respetivo NC e mês de nascimento sejam iguais.
+        /// </summary>
+        public override bool Equals(object? obj)
+        {
+            return obj is Pessoa other && Equals(other);
+        }
+
+        public bool Equals(Pessoa other)
+        {
+            if (other is null)
+                return false;
+
+            // Duas pessoas são iguais se NC e mês de nascimento são iguais
+            return NC == other.NC && dn.Month == other.DN.Month;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(NC, dn.Month);
+        }
+
+        public static bool operator ==(Pessoa pessoa1, Pessoa pessoa2)
+        {
+            return pessoa1 is not null && pessoa1.Equals(pessoa2);
+        }
+
+        public static bool operator !=(Pessoa pessoa1, Pessoa pessoa2)
+        {
+            return !(pessoa1 == pessoa2);
+        }
     }
 
     public abstract class QuasePessoa
