@@ -1,0 +1,15 @@
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/bin/Debug/net7.0/grupo3
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/bin/Debug/net7.0/grupo3.deps.json
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/bin/Debug/net7.0/grupo3.runtimeconfig.json
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/bin/Debug/net7.0/grupo3.dll
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/bin/Debug/net7.0/grupo3.pdb
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/obj/Debug/net7.0/grupo3.csproj.AssemblyReference.cache
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/obj/Debug/net7.0/grupo3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/obj/Debug/net7.0/grupo3.AssemblyInfoInputs.cache
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/obj/Debug/net7.0/grupo3.AssemblyInfo.cs
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/obj/Debug/net7.0/grupo3.csproj.CoreCompileInputs.cache
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/obj/Debug/net7.0/grupo3.dll
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/obj/Debug/net7.0/refint/grupo3.dll
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/obj/Debug/net7.0/grupo3.pdb
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/obj/Debug/net7.0/grupo3.genruntimeconfig.cache
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/grupo3/obj/Debug/net7.0/ref/grupo3.dll
