@@ -1,0 +1,12 @@
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/bin/Debug/net7.0/MinhaBiblioteca.deps.json
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/bin/Debug/net7.0/MinhaBiblioteca.dll
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/bin/Debug/net7.0/MinhaBiblioteca.pdb
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/obj/Debug/net7.0/MinhaBiblioteca.csproj.AssemblyReference.cache
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/obj/Debug/net7.0/MinhaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/obj/Debug/net7.0/MinhaBiblioteca.AssemblyInfoInputs.cache
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/obj/Debug/net7.0/MinhaBiblioteca.AssemblyInfo.cs
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/obj/Debug/net7.0/MinhaBiblioteca.csproj.CoreCompileInputs.cache
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/obj/Debug/net7.0/MinhaBiblioteca.dll
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/obj/Debug/net7.0/refint/MinhaBiblioteca.dll
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/obj/Debug/net7.0/MinhaBiblioteca.pdb
+/Users/tomassilva/Desktop/POO/teste_exemplo/teste/MinhaBiblioteca/obj/Debug/net7.0/ref/MinhaBiblioteca.dll
