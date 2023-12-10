@@ -28,8 +28,9 @@ namespace teste
 
         public long DiaDaSemana()
         {
-            return (long)dn.DayOfWeek;
+            return (long)DN.DayOfWeek + 1; // Adicionando 1 para evitar o valor 0
         }
+
 
         // Implementação do método abstrato Morada() da classe base QuasePessoa
         public override string Morada()
