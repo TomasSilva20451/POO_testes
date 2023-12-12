@@ -32,6 +32,11 @@ public class Estufa
     /// Lista de produtos produzidos na estufa.
     /// </summary>
     public List<Produto> ProdutosProduzidos { get; set; }
+
+    /// <summary>
+    /// Lista de intervenções realizadas na estufa.
+    /// </summary>
+    public List<Intervencao> Intervencoes { get; set; } = new List<Intervencao>();
     #endregion
 
     #region Construtores
@@ -58,6 +63,24 @@ public class Estufa
     public void AdicionarProduto(Produto produto)
     {
         ProdutosProduzidos.Add(produto);
+    }
+
+    /// <summary>
+    /// Adiciona uma intervenção realizada na estufa.
+    /// </summary>
+    /// <param name="intervencao">A intervenção a ser adicionada.</param>
+    public void AdicionarIntervencao(Intervencao intervencao)
+    {
+        Intervencoes.Add(intervencao);
+    }
+
+    /// <summary>
+    /// Obtém todas as intervenções realizadas na estufa.
+    /// </summary>
+    /// <returns>A lista de intervenções.</returns>
+    public List<Intervencao> ObterIntervencoes()
+    {
+        return Intervencoes;
     }
     #endregion
 }
