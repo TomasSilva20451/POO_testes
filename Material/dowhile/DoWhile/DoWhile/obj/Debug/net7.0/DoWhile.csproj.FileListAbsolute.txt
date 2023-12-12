@@ -1,0 +1,15 @@
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/bin/Debug/net7.0/DoWhile
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/bin/Debug/net7.0/DoWhile.deps.json
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/bin/Debug/net7.0/DoWhile.runtimeconfig.json
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/bin/Debug/net7.0/DoWhile.dll
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/bin/Debug/net7.0/DoWhile.pdb
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/obj/Debug/net7.0/DoWhile.csproj.AssemblyReference.cache
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/obj/Debug/net7.0/DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/obj/Debug/net7.0/DoWhile.AssemblyInfoInputs.cache
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/obj/Debug/net7.0/DoWhile.AssemblyInfo.cs
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/obj/Debug/net7.0/DoWhile.csproj.CoreCompileInputs.cache
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/obj/Debug/net7.0/DoWhile.dll
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/obj/Debug/net7.0/refint/DoWhile.dll
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/obj/Debug/net7.0/DoWhile.pdb
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/obj/Debug/net7.0/DoWhile.genruntimeconfig.cache
+/Users/tomassilva/Desktop/POO/youtube/dowhile/DoWhile/DoWhile/obj/Debug/net7.0/ref/DoWhile.dll
