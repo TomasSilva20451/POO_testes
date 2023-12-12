@@ -1,0 +1,12 @@
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/bin/Debug/net7.0/ExameRecurso.deps.json
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/bin/Debug/net7.0/ExameRecurso.dll
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/bin/Debug/net7.0/ExameRecurso.pdb
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/obj/Debug/net7.0/ExameRecurso.csproj.AssemblyReference.cache
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/obj/Debug/net7.0/ExameRecurso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/obj/Debug/net7.0/ExameRecurso.AssemblyInfoInputs.cache
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/obj/Debug/net7.0/ExameRecurso.AssemblyInfo.cs
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/obj/Debug/net7.0/ExameRecurso.csproj.CoreCompileInputs.cache
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/obj/Debug/net7.0/ExameRecurso.dll
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/obj/Debug/net7.0/refint/ExameRecurso.dll
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/obj/Debug/net7.0/ExameRecurso.pdb
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/ExameRecurso/obj/Debug/net7.0/ref/ExameRecurso.dll
