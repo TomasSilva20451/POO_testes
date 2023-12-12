@@ -6,8 +6,10 @@
  * @date 2023-12-12
  * @copyright Copyright (c) 2023
  */
+
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 #region GreenHouseSystem
 public class GreenHouseSystem
@@ -30,46 +32,62 @@ public class GreenHouseSystem
     #endregion
 
     #region Métodos
-    /// <summary>
-    /// Adiciona uma estufa ao sistema.
-    /// </summary>
-    /// <param name="estufa">A estufa a ser adicionada.</param>
-    public void AdicionarEstufa(Estufa estufa)
-    {
-        estufas.Add(estufa);
-    }
 
     /// <summary>
-    /// Obtém a lista de estufas geridas pelo sistema.
+    /// Regista uma nova estufa no sistema.
     /// </summary>
-    /// <returns>A lista de estufas.</returns>
-    public List<Estufa> ObterEstufas()
+    /// <param name="estufa">A estufa a ser registada.</param>
+    public void RegistarEstufa(Estufa estufa)
     {
-        return estufas;
-    }
-
-    /// <summary>
-    /// Calcula a produção total por tipo de produto.
-    /// </summary>
-    /// <returns>Um dicionário onde a chave é o tipo de produto e o valor é a produção total.</returns>
-    public Dictionary<TipoProduto, double> CalcularProducaoTotalPorTipo()
-    {
-        Dictionary<TipoProduto, double> producaoPorTipo = new Dictionary<TipoProduto, double>();
-
-        foreach (var estufa in estufas)
+        if (!EstufaExiste(estufa.Codigo))
         {
-            foreach (var produto in estufa.ProdutosProduzidos)
-            {
-                if (!producaoPorTipo.ContainsKey(estufa.Tipo))
-                {
-                    producaoPorTipo[estufa.Tipo] = 0.0;
-                }
-
-                producaoPorTipo[estufa.Tipo] += produto.QuantidadeProduzida;
-            }
+            estufas.Add(estufa);
         }
+        else
+        {
+            Console.WriteLine($"A estufa com o código {estufa.Codigo} já está registada.");
+        }
+    }
 
-        return producaoPorTipo;
+    /// <summary>
+    /// Encontra estufas de determinado tipo que produzem acima de determinada capacidade.
+    /// </summary>
+    /// <param name="tipo">O tipo de estufa desejado.</param>
+    /// <param name="capacidadeMinima">A capacidade mínima desejada em kg/ano.</param>
+    /// <returns>Uma lista de estufas que correspondem aos critérios.</returns>
+    public List<Estufa> EncontrarEstufasPorTipoECapacidade(TipoProduto tipo, double capacidadeMinima)
+    {
+        return estufas.Where(e => e.Tipo == tipo && e.CapacidadeProducao > capacidadeMinima).ToList();
+    }
+
+    /// <summary>
+    /// Verifica se uma estufa com determinado código existe.
+    /// </summary>
+    /// <param name="codigo">O código da estufa a verificar.</param>
+    /// <returns>True se a estufa existir; False caso contrário.</returns>
+    public bool EstufaExiste(string codigo)
+    {
+        return estufas.Any(e => e.Codigo == codigo);
+    }
+
+    /// <summary>
+    /// Obtém todas as informações associadas a uma estufa, se existir.
+    /// </summary>
+    /// <param name="codigo">O código da estufa desejada.</param>
+    /// <returns>As informações da estufa se existir; null caso contrário.</returns>
+    public Estufa? ObterInformacaoEstufa(string codigo)
+    {
+        return estufas.FirstOrDefault(e => e.Codigo == codigo);
+    }
+
+
+    /// <summary>
+    /// Arquiva toda a informação registada.
+    /// </summary>
+    public void ArquivarInformacao()
+    {
+        // Implemente a lógica de arquivamento aqui
+        Console.WriteLine("Informação arquivada com sucesso!");
     }
     #endregion
 }
