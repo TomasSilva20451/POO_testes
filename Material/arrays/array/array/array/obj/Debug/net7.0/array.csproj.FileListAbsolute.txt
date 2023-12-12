@@ -1,0 +1,15 @@
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/bin/Debug/net7.0/array
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/bin/Debug/net7.0/array.deps.json
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/bin/Debug/net7.0/array.runtimeconfig.json
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/bin/Debug/net7.0/array.dll
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/bin/Debug/net7.0/array.pdb
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/obj/Debug/net7.0/array.csproj.AssemblyReference.cache
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/obj/Debug/net7.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/obj/Debug/net7.0/array.AssemblyInfoInputs.cache
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/obj/Debug/net7.0/array.AssemblyInfo.cs
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/obj/Debug/net7.0/array.csproj.CoreCompileInputs.cache
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/obj/Debug/net7.0/array.dll
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/obj/Debug/net7.0/refint/array.dll
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/obj/Debug/net7.0/array.pdb
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/obj/Debug/net7.0/array.genruntimeconfig.cache
+/Users/tomassilva/Desktop/POO/youtube/arrays/array/array/array/obj/Debug/net7.0/ref/array.dll
