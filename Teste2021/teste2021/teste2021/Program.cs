@@ -1,5 +1,5 @@
 ﻿/**
- * @file ProgramaDemonstrativo.cs
+ * @file Programa.cs
  * @author Tomás (a20451@alunos.ipca.pt)
  * @brief Programa onde demonstra a utilização dos métodos implementados nas classes da alínea c) e d)
  * @version 0.1
@@ -18,6 +18,9 @@ class Program
 {
     static void Main()
     {
+        IIOService ioService = new ConsoleIOService();
+        // Ou use a implementação personalizada: IIOService ioService = new CustomIOService();
+
         // Demonstração de utilização
         ArrayList pessoas = new ArrayList
         {
@@ -41,15 +44,15 @@ class Program
         );
 
         // Exibindo resultados
-        Console.WriteLine($"Total de Elementos é Par: {totalElementosPar}");
-        Console.WriteLine("Pessoas por Data de Nascimento:");
+        ioService.WriteLine($"Total de Elementos é Par: {totalElementosPar}");
+        ioService.WriteLine("Pessoas por Data de Nascimento:");
         foreach (var entry in pessoasPorDataNascimento)
         {
-            Console.WriteLine($"Data: {entry.Key.ToShortDateString()}, Pessoas: {string.Join(", ", entry.Value.Select(p => p.Nome))}");
+            ioService.WriteLine($"Data: {entry.Key.ToShortDateString()}, Pessoas: {string.Join(", ", entry.Value.Select(p => p.Nome))}");
         }
 
-        Console.WriteLine($"Soma: {soma}");
-        Console.WriteLine($"Valor existe na lista: {valorExiste}");
-        Console.WriteLine($"Pessoa mais velha: {maisVelha}");
+        ioService.WriteLine($"Soma: {soma}");
+        ioService.WriteLine($"Valor existe na lista: {valorExiste}");
+        ioService.WriteLine($"Pessoa mais velha: {maisVelha}");
     }
 }
