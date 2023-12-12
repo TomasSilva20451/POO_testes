@@ -22,12 +22,14 @@ public class Pessoa
     /// <summary>
     /// Obtém ou define o nome da pessoa.
     /// </summary>
-    public string Nome { get; set; }
+    public string? Nome { get; set; }
 
     /// <summary>
     /// Obtém ou define a idade da pessoa.
     /// </summary>
     public int Idade { get; set; }
     #endregion
+
+
 }
 #endregion
