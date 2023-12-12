@@ -1,0 +1,12 @@
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/bin/Debug/net7.0/DLL 2 -MULTIPLY.deps.json
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/bin/Debug/net7.0/DLL 2 -MULTIPLY.dll
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/bin/Debug/net7.0/DLL 2 -MULTIPLY.pdb
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/obj/Debug/net7.0/DLL 2 -MULTIPLY.csproj.AssemblyReference.cache
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/obj/Debug/net7.0/DLL 2 -MULTIPLY.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/obj/Debug/net7.0/DLL 2 -MULTIPLY.AssemblyInfoInputs.cache
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/obj/Debug/net7.0/DLL 2 -MULTIPLY.AssemblyInfo.cs
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/obj/Debug/net7.0/DLL 2 -MULTIPLY.csproj.CoreCompileInputs.cache
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/obj/Debug/net7.0/DLL 2 -MULTIPLY.dll
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/obj/Debug/net7.0/refint/DLL 2 -MULTIPLY.dll
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/obj/Debug/net7.0/DLL 2 -MULTIPLY.pdb
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL 2 -MULTIPLY/obj/Debug/net7.0/ref/DLL 2 -MULTIPLY.dll

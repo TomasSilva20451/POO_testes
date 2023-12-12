@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DLL">
+      <HintPath>..\DLL\bin\Debug\net7.0\DLL.dll</HintPath>
+    </Reference>
+    <Reference Include="DLL 2 -MULTIPLY">
+      <HintPath>..\DLL 2 -MULTIPLY\bin\Debug\net7.0\DLL 2 -MULTIPLY.dll</HintPath>
+    </Reference>
+    <Reference Include="DLL3">
+      <HintPath>..\DLL3\bin\Debug\net7.0\DLL3.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DLL\DLL.csproj" />
+    <ProjectReference Include="..\DLL 2 -MULTIPLY\DLL 2 -MULTIPLY.csproj" />
+    <ProjectReference Include="..\DLL3\DLL3.csproj" />
+  </ItemGroup>
+</Project>
