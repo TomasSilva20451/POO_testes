@@ -28,6 +28,12 @@ public class Pessoa
     /// Obtém ou define a idade da pessoa.
     /// </summary>
     public int Idade { get; set; }
+
+
+    /// <summary>
+    /// Obtém ou define a data de nascimento da pessoa.
+    /// </summary>
+    public DateTime DataNascimento { get; set; }
     #endregion
 
 
