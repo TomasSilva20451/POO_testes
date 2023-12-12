@@ -1,0 +1,12 @@
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/bin/Debug/net7.0/GreenHouse.deps.json
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/bin/Debug/net7.0/GreenHouse.dll
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/bin/Debug/net7.0/GreenHouse.pdb
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/obj/Debug/net7.0/GreenHouse.csproj.AssemblyReference.cache
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/obj/Debug/net7.0/GreenHouse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/obj/Debug/net7.0/GreenHouse.AssemblyInfoInputs.cache
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/obj/Debug/net7.0/GreenHouse.AssemblyInfo.cs
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/obj/Debug/net7.0/GreenHouse.csproj.CoreCompileInputs.cache
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/obj/Debug/net7.0/GreenHouse.dll
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/obj/Debug/net7.0/refint/GreenHouse.dll
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/obj/Debug/net7.0/GreenHouse.pdb
+/Users/tomassilva/Desktop/POO/Teste2021/teste2021/GreenHouse/obj/Debug/net7.0/ref/GreenHouse.dll
