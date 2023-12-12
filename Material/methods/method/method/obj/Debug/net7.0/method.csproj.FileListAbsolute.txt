@@ -1,0 +1,15 @@
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/bin/Debug/net7.0/method
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/bin/Debug/net7.0/method.deps.json
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/bin/Debug/net7.0/method.runtimeconfig.json
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/bin/Debug/net7.0/method.dll
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/bin/Debug/net7.0/method.pdb
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/obj/Debug/net7.0/method.csproj.AssemblyReference.cache
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/obj/Debug/net7.0/method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/obj/Debug/net7.0/method.AssemblyInfoInputs.cache
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/obj/Debug/net7.0/method.AssemblyInfo.cs
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/obj/Debug/net7.0/method.csproj.CoreCompileInputs.cache
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/obj/Debug/net7.0/method.dll
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/obj/Debug/net7.0/refint/method.dll
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/obj/Debug/net7.0/method.pdb
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/obj/Debug/net7.0/method.genruntimeconfig.cache
+/Users/tomassilva/Desktop/POO/youtube/methods/method/method/obj/Debug/net7.0/ref/method.dll
