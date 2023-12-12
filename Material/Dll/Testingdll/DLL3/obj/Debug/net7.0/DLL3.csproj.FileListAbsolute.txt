@@ -1,0 +1,12 @@
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/bin/Debug/net7.0/DLL3.deps.json
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/bin/Debug/net7.0/DLL3.dll
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/bin/Debug/net7.0/DLL3.pdb
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/obj/Debug/net7.0/DLL3.csproj.AssemblyReference.cache
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/obj/Debug/net7.0/DLL3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/obj/Debug/net7.0/DLL3.AssemblyInfoInputs.cache
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/obj/Debug/net7.0/DLL3.AssemblyInfo.cs
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/obj/Debug/net7.0/DLL3.csproj.CoreCompileInputs.cache
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/obj/Debug/net7.0/DLL3.dll
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/obj/Debug/net7.0/refint/DLL3.dll
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/obj/Debug/net7.0/DLL3.pdb
+/Users/tomassilva/Desktop/POO/youtube/Dll/Testingdll/DLL3/obj/Debug/net7.0/ref/DLL3.dll
