@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Teste_POO/1.0.0": {
+        "dependencies": {
+          "FEIEControlSystem": "1.0.0",
+          "Grupo1": "1.0.0",
+          "FEIEControlSystem.Reference": "1.0.0.0",
+          "Grupo1.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "Teste_POO.dll": {}
+        }
+      },
+      "FEIEControlSystem.Reference/1.0.0.0": {
+        "runtime": {
+          "FEIEControlSystem.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Grupo1.Reference/1.0.0.0": {
+        "runtime": {
+          "Grupo1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teste_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FEIEControlSystem.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grupo1.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
